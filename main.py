@@ -2,6 +2,8 @@
 # pip install chatterbot_corpus
 # pip install pyttsx3
 #pip install pypiwin32 , error ko remove krne ke liye
+# pip install pipwin , error ko remove krne ke liye
+# pipwin install pyaudio , error ko remove krne ke liye
 # pyttsx3 library audio functons of use krne k liye krtey hai
 #pip install SpeechRecognition
 #user input dega through speak
